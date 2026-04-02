@@ -1,21 +1,16 @@
-# SpaceSHMUP
-Project 3 for SIUE CS 382.
+#Project 3 
+A space shooter game where you fight off waves of enemy ships.
+How to Play
 
-Use WASD or Arrow Keys to move.
-Hold or Press Space to shoot.
+Space Bar – Shoot
+Double Click – Restart the game
 
-Enemies have a chance to drop powerups, which are as follows:
-> White - Blaster, Your starting weapon.
+Features
 
-> Blue - Spread Shot, Shoot 3 bullets in a spread infront of you.
+5 enemy ships on screen at the same time, making it challenging to avoid and shoot them all
+When enemies hit the player, they take damage, so the player has to dodge while shooting
+Two types of enemies:
 
-> Green - Shield, Gain an aditional hit you can take (Up to 4)
-
-Killing Enemies also scores you points
-> 100 - Basic Enemy
-
-> 250 - Swinging Enemy
-
-> 500 - Arcing Enemy
-
-> 1000 - Boss/Shield Enemy.
+Small ships – fast and easy to destroy
+Large ships – slow but take multiple hits to destroy, acting like a mini boss
+This makes the game more fun because not all enemies are the same, and the player has to think about which ones to shoot first.
